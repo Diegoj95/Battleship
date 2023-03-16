@@ -22,5 +22,6 @@ Un ejemplo de tablero puede ser:
 El oceano se encuentra escondido para usted (privado en la clase Tablero.java).
 
 Creditos
+- Tablero.java por profesor Rodrigo Torres, Universidad del Bío-Bío
 - Vídeo: https://youtu.be/LbALFZoRrw8
 - Documento: http://www.datagenetics.com/blog/december32011/
